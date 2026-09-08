@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Md Anas Talha 👋
 
-<!--
-**mdanastalha-stack/mdanastalha-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Developer & Headless E-Commerce Specialist
+Full-Stack Developer Intern at **Noor**, building high-performance e-commerce storefronts using React, Next.js, and Shopify Hydrogen.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+- **Frontend:** React.js, Next.js, Shopify Hydrogen, Liquid, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, RESTful APIs
+- **Tools & Workflow:** Git, GitHub, NPM, Vercel
+
+---
+
+### 🎓 Education & Background
+- **B.Tech in Computer Science & Engineering** — Shadan College of Engineering & Technology (Class of 2027)
+- **Location:** Hyderabad, Telangana, India
+
+---
+
+### 📫 Connect With Me
+- **LinkedIn:** [linkedin.com/in/md-anas-talha](https://www.linkedin.com/in/md-anas-talha)
+- **Email:** mdanastalha@gmail.com
