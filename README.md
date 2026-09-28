@@ -40,11 +40,17 @@ I am a passionate **Full-Stack Developer** and final-year Computer Science Engin
 ---
 
 ### 🌐 Commercial Projects (Production Links)
+
 Below are the live production platforms I have worked on, optimized, and helped deploy during my full-stack engineering tenure:
 
-* 🛍️ [Zavi](https://zavi.in) — Full-stack architecture design and complete frontend ownership.
+* 🛍️ [Zavi Jewels](https://zavijewels.com) — Full-stack architecture design and complete frontend ownership.
+
 * 📱 [Aptronix India](https://aptronixindia.com) — High-performance headless frontend components.
+
 * 🌿 [Maharishi Ayurveda](https://maharishiayurvedaindia.com) — Storefront architecture and custom catalog logic.
+
 * 🛹 [Banboards](https://banboards.com) — Modular UI components and dynamic layout systems.
-* 💄 [Baked Beauty](https://thebakedbeauty.com) — Performance tuning and frontend user journeys.
+
+* 💄 [Baked Beauty](https://bakedbeauty.in) — Performance tuning and frontend user journeys.
+
 * 🛁 [Somany Ceramics](https://somanyceramics.com) — Liquid framework maintenance and application optimization.
