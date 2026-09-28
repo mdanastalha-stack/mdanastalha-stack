@@ -1,12 +1,8 @@
-<div align="center">
-  <h1>Hi, I'm Md Anas Talha 👋</h1>
-  <h3>Full-Stack Developer | Headless E-commerce Specialist</h3>
+# Hi, I'm Md Anas Talha 👋
+### Full-Stack Developer | Headless E-commerce Specialist
 
-  <p align="center">
-    <a href="mailto:mdanastalha@gmail.com"><img src="https://shields.io" alt="Email"/></a>
-    <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"/></a>
-  </p>
-</div>
+**📩 Email:** mdanastalha@gmail.com  
+**💼 LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
 
 ---
 
@@ -22,52 +18,17 @@ I am a passionate **Full-Stack Developer** and final-year Computer Science Engin
 
 ### 🧰 Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="JavaScript" />
-      <br />JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="React" />
-      <br />React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Next.js" />
-      <br />Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Node.js" />
-      <br />Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.devhub" width="48" height="48" alt="GitHub" />
-      <br />GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="VS Code" />
-      <br />VS Code
-    </td>
-  </tr>
-</table>
+| Frontend | Backend & Languages | Tools & Workflows |
+| :--- | :--- | :--- |
+| • React.js<br>• Next.js<br>• JavaScript (ES6+)<br>• HTML5 / CSS3 | • Node.js<br>• Python<br>• RESTful APIs | • Git & GitHub<br>• VS Code<br>• NPM / Vercel |
 
-**E-commerce & Templating:** Shopify Hydrogen, Shopify Oxygen, Liquid
+**Core E-commerce Expertise:** Shopify Hydrogen, Shopify Oxygen, Liquid Development
 
 ---
 
 ### 📊 GitHub Metrics
 
-<p align="center">
-  <img src="https://vercel.app" alt="Anas's GitHub Stats" width="480"/>
-</p>
+* Contributions are tracked live on my profile activity graph below!*
 
 ---
 
