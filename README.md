@@ -2,7 +2,8 @@
 ### Full-Stack Developer | Headless E-commerce Specialist
 
 **📩 Email:** mdanastalha@gmail.com  
-**💼 LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+**💼 LinkedIn:** [linkedin.com/in/md-anas-talha-644130359](https://linkedin.com)
+
 
 ---
 
