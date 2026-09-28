@@ -47,7 +47,7 @@ Below are the live production platforms I have worked on, optimized, and helped 
 
 * 📱 [Aptronix India](https://aptronixindia.com) — High-performance headless frontend components.
 
-* 🌿 [Maharishi Ayurveda](https://maharishiayurvedaindia.com) — Storefront architecture and custom catalog logic.
+* 🌿 [Maharishi Ayurveda](https://maharishiayurveda.de) — Storefront architecture and custom catalog logic.
 
 * 🛹 [Banboards](https://banboards.com) — Modular UI components and dynamic layout systems.
 
